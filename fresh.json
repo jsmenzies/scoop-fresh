@@ -1,0 +1,22 @@
+{
+    "version": "1.7.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jsmenzies/fresh/releases/download/v1.7.1/fresh_1.7.1_windows_amd64.tar.gz",
+            "bin": [
+                "fresh.exe"
+            ],
+            "hash": "c4a82d6429aa8d553b5d1a8a503f8b29eb061faf28344142e1165cd08aab69f6"
+        },
+        "arm64": {
+            "url": "https://github.com/jsmenzies/fresh/releases/download/v1.7.1/fresh_1.7.1_windows_arm64.tar.gz",
+            "bin": [
+                "fresh.exe"
+            ],
+            "hash": "29009efafc8a58412198b79940583282db24ee8738e1d920a828b7d64699e64c"
+        }
+    },
+    "homepage": "https://github.com/jsmenzies/fresh",
+    "license": "MIT",
+    "description": "A CLI tool for interactively managing the status of multiple Git repositories"
+}
