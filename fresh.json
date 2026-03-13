@@ -1,19 +1,19 @@
 {
-    "version": "1.12.1",
+    "version": "1.13.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jsmenzies/fresh/releases/download/v1.12.1/fresh_1.12.1_windows_amd64.tar.gz",
+            "url": "https://github.com/jsmenzies/fresh/releases/download/v1.13.0/fresh_1.13.0_windows_amd64.tar.gz",
             "bin": [
                 "fresh.exe"
             ],
-            "hash": "e685d6a78bdcc9fdd4a6e2a01ec2b5dbac18a13818e36ca1ffce835dfec02646"
+            "hash": "5c6e29097ffc49f46512f5838a0d243318647e3231f72eb2642ccc31afb9a1a3"
         },
         "arm64": {
-            "url": "https://github.com/jsmenzies/fresh/releases/download/v1.12.1/fresh_1.12.1_windows_arm64.tar.gz",
+            "url": "https://github.com/jsmenzies/fresh/releases/download/v1.13.0/fresh_1.13.0_windows_arm64.tar.gz",
             "bin": [
                 "fresh.exe"
             ],
-            "hash": "b3990c9f6d1fab12dba7d1909eb51046f930b09c5155491dbe296e6e546830e3"
+            "hash": "07aa27d89959532bc0f51ccd0616fe0f564feee7fae1bab757af0b4c48dd8c12"
         }
     },
     "homepage": "https://github.com/jsmenzies/fresh",
